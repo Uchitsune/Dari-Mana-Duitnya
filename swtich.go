@@ -24,7 +24,9 @@ func main() {
 	case 7:
 		fmt.Println("Minggu")
 	case 8:
-		fmt.Println("Bayar Pajak")	
+		fmt.Println("Bayar Pajak")
+	case 9:
+		fmt.Println("Bayar APBN")
 	default:
 		fmt.Println("Angka tidak valid!")
 	}
